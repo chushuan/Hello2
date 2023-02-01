@@ -1,2 +1,3 @@
 check push
-check push 2
+check push
+check push1
